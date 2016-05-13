@@ -1,0 +1,24 @@
+It clearly pointed out the difference between the two versions that were saved on the computer. With the help of "diff" command I was able to rectify the bug in the code.
+
+By having easy access to previous versions of the code, I would easily go back in time and the code, refer to the mistakes or changes I made previously. It saves a lot of time and effort.
+
+The pro of have commit on git is that we can clearly see the difference between two previous versions explicitly with a comment about the change.
+
+The con about the commit on git is that if someone forgets to do a commit after an important change, then it will be a disaster.
+
+One more pro of having a commit is that we can check the difference between any of the previous versions.
+
+Services like G-Drive are made to store and retrieve files from cloud. They aren't explicitly made to track changes in each file. But the purpose of git it to store and manage different versions of files saved during each commit.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log displays all the commits made to the repository along with the comments for each commit. This helps in maintaining a reference to the changes and additions made to the files.
+
+gif diff clearly outlines the difference between two commits. It highlights the additions with green color and deletions with red color.
+
+How might using version control make you more confident to make changes that could break something?
+
+I'm glad I got to know about the "git checkout" feature. Now I can audaciously inspect code in retrospect. I can even make bold changes to the code by creating a branch. It's a brilliant feature.
+
+How Do You Want to Use Git?
+I want to save my future app projects using git. I want to actively participate in open source projects and contribute my part. I'll aslo try to use git for other daily work.
