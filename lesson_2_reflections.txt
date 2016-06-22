@@ -5,3 +5,10 @@ It creates a .git folder, which is a hidden folder. It maintains all the meta da
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 A: Staging area is the place where all the files which are required to be committed are placed. It offers a clear view as to which files and beign commited and which aren't.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+A: When I want to experiment on some new feature or add some risky functionality which will have some potential bugs or trying out a new API or a framework which isn't stable; Branches might come handy in such situations. Whenever there is a need to go back, dismiss a experimental feature or to successfully add a risky feature to the main code branching would be a pleasant way to organize and keep track of the code.
+
+How do the diagrams help you visualize the branch structure?
+A: Diagrams help in discerning the branch structure, understand various other branches and workflow of the code or a feature
